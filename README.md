@@ -6,8 +6,8 @@ A React app showcasing a student directory with reusable components, nested skil
 - **StudentCard**: Reusable component displaying student information with nested skill lists and status badges.
 
 ## Links
-- **GitHub Repository:** [your-github-link]
-- **Live Website:** [your-deployment-link]
+- **GitHub Repository:** []
+- **Live Website:** []
 
 ## Run Locally
 1. Clone the repository
